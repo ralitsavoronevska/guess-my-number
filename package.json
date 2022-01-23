@@ -1,0 +1,22 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "Guess My Number - JavaScript Game",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralitsavoronevska/guess-my-number"
+  },
+  "keywords": [
+    "JavaScript",
+    "Game"
+  ],
+  "author": "Ralitsa Voronevska",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
