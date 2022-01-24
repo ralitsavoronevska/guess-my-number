@@ -110,14 +110,14 @@ footer {
   footer {
     height: 8vh; } }
 
-@media screen and (min-width: 768px) and (max-width: 1279px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   main {
     height: 65vh;
     flex-direction: column; }
   footer {
     height: 5vh; } }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1023px) {
   h1 {
     font-size: 2rem; }
   .between {
@@ -128,7 +128,6 @@ footer {
     padding: 1rem 2rem; }
   .number {
     font-size: 4rem;
-    width: 10rem;
     padding: 2rem 0rem; }
   header {
     height: 30vh; }
