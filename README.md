@@ -1,4 +1,4 @@
-# Responsive Portfolio Website
+# Guess My Number - JavaScript Game
 [Live Preview](https://ralitsavoronevska.github.io/guess-my-number/)
 
 # Desktop Preview:
