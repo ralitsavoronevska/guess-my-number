@@ -1,5 +1,10 @@
 # Guess My Number - JavaScript Game
+The creation of this JavaScript Game is part of the Udemy course [Web Development
+JavaScript
+The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+
 [Live Preview](https://ralitsavoronevska.github.io/guess-my-number/)
+[CodePan](https://codepen.io/ralitsavoronevska/pen/eYGqybJ)
 
 # Desktop Preview:
 <img src="dist/img/guess-my-number-desktop-preview-1.jpg" />
